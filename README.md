@@ -1,1 +1,1 @@
-# My-pandas-lectures
+# My pandas lectures
